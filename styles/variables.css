@@ -8,15 +8,15 @@
   --page-bg-image: url('/images/cover-image-dark.png');
   --page-text-color: #000028;
   --theme-text-color: #000028;
-  --header-footer-title-color: #DB00FF;
-  --bg-text: #FF0070;
-  --shadow-text: 4px 4px 0 #FF0070;
-  --shadow-text-link: 2px 2px 0 #FF0070;
-  --main-text-color: #F1B2CE;
-  --main-title-color: #FF0070;
+  --header-footer-title-color: #db00ff;
+  --bg-text: #ff0070;
+  --shadow-text: 4px 4px 0 #ff0070;
+  --shadow-text-link: 2px 2px 0 #ff0070;
+  --main-text-color: #f1b2ce;
+  --main-title-color: #ff0070;
   --bottom-hover: 1px solid rgba(255, 0, 112, 0.4);
-  --bottom-focus: 1px solid #FF0070;
-  --link-hover-focus: 1px solid #F1B2CE;
+  --bottom-focus: 1px solid #ff0070;
+  --link-hover-focus: 1px solid #f1b2ce;
 
   --main-text-line-height: 23.4px;
   --main-text-size: 18px;
