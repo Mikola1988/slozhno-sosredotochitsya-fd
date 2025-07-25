@@ -10,6 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
 
+  --page-bg-color: #fff0f8;
   --page-bg-image: url('/images/cover-image-light.png');
   --page-text-color: #353430;
   --header-footer-title-color: #FFC2E6;
