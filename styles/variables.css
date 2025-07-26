@@ -21,5 +21,5 @@
   --main-text-line-height: 23.4px;
   --main-text-size: 18px;
   --title-font-size-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-  --title-font-sizw-tablet: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  --title-font-size-tablet: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
 }
