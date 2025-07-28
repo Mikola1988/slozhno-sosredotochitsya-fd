@@ -11,7 +11,7 @@
   */
 
   --page-bg-color: #030349;
-  --page-bg-image: url('/images/cover-image-dark.png');
+  --page-bg-image: url('../images/cover-image-dark.png');
   --page-text-color: #000028;
   --theme-text-color: #000028;
   --header-footer-title-color: #db00ff;
@@ -20,6 +20,10 @@
   --shadow-text-link: 2px 2px 0 #ff0070;
   --main-text-color: #f1b2ce;
   --main-title-color: #ff0070;
+  --bottom-hover: 1px solid rgba(255, 0, 112, 0.4);
+  --bottom-focus: 0px 1px 0px #ff0070;
+  --link-focus: 1px solid #F1B2CE;
+  --link-hover: 0px 1px 0px #F1B2CE;
 }
 
 .theme-dark .header__header-decorative-text::after,

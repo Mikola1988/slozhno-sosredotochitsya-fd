@@ -11,7 +11,7 @@
   */
 
   --page-bg-color: #fff0f8;
-  --page-bg-image: url('/images/cover-image-light.png');
+  --page-bg-image: url('../images/cover-image-light.png');
   --page-text-color: #353430;
   --header-footer-title-color: #ffc2e6;
   --bg-text: #ffc2e6;
@@ -20,8 +20,9 @@
   --main-text-color: #353430;
   --main-title-color: #353430;
   --bottom-hover: 1px solid rgba(50, 49, 45, 0.4);
-  --bottom-focus: 1px solid #353430;
-  --link-hover-focus: 1px solid #353430;
+  --bottom-focus:  0px 1px 0px #353430;
+  --link-focus: 1px solid #353430;
+  --link-hover:  0px 1px 0px #353430;
 }
 
 .theme-light .header__header-decorative-text::after,
@@ -32,7 +33,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --page-bg-color: #fff0f8;
-    --page-bg-image: url('/images/cover-image-light.png');
+    --page-bg-image: url('../images/cover-image-light.png');
     --page-text-color: #353430;
     --header-footer-title-color: #ffc2e6;
     --bg-text: #ffc2e6;
@@ -41,8 +42,9 @@
     --main-text-color: #353430;
     --main-title-color: #353430;
     --bottom-hover: 1px solid rgba(50, 49, 45, 0.4);
-    --bottom-focus: 1px solid #353430;
-    --link-hover-focus: 1px solid #353430;
+    --bottom-focus:  0px 1px 0px #353430;
+    --link-focus: 1px solid #353430;
+    --link-hover:  0px 1px 0px #353430;
   }
 
   .header__header-decorative-text::after,
