@@ -20,9 +20,9 @@
   --main-text-color: #353430;
   --main-title-color: #353430;
   --bottom-hover: 1px solid rgba(50, 49, 45, 0.4);
-  --bottom-focus:  0px 1px 0px #353430;
+  --bottom-focus: 0px 1px 0px #353430;
   --link-focus: 1px solid #353430;
-  --link-hover:  0px 1px 0px #353430;
+  --link-hover: 0px 1px 0px #353430;
 }
 
 .theme-light .header__header-decorative-text::after,
@@ -42,9 +42,9 @@
     --main-text-color: #353430;
     --main-title-color: #353430;
     --bottom-hover: 1px solid rgba(50, 49, 45, 0.4);
-    --bottom-focus:  0px 1px 0px #353430;
+    --bottom-focus: 0px 1px 0px #353430;
     --link-focus: 1px solid #353430;
-    --link-hover:  0px 1px 0px #353430;
+    --link-hover: 0px 1px 0px #353430;
   }
 
   .header__header-decorative-text::after,

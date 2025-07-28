@@ -22,8 +22,8 @@
   --main-title-color: #ff0070;
   --bottom-hover: 1px solid rgba(255, 0, 112, 0.4);
   --bottom-focus: 0px 1px 0px #ff0070;
-  --link-focus: 1px solid #F1B2CE;
-  --link-hover: 0px 1px 0px #F1B2CE;
+  --link-focus: 1px solid #f1b2ce;
+  --link-hover: 0px 1px 0px #f1b2ce;
 }
 
 .theme-dark .header__header-decorative-text::after,
