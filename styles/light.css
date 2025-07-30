@@ -14,15 +14,19 @@
   --page-bg-image: url('../images/cover-image-light.png');
   --page-text-color: #353430;
   --header-footer-title-color: #ffc2e6;
-  --bg-text: #ffc2e6;
+  --bg-text: #ff8dcb;
   --shadow-text: 4px 4px 0px #ff8dcb;
   --shadow-text-link: 2px 2px 0 #ff8dcb;
   --main-text-color: #353430;
   --main-title-color: #353430;
+  --bottom-switch-active: 1px solid #353430;
   --bottom-hover: 1px solid rgba(50, 49, 45, 0.4);
   --bottom-focus: 0px 1px 0px #353430;
+  --bottom-active: rgb(255, 141, 203, 0.1);
   --link-focus: 1px solid #353430;
   --link-hover: 0px 1px 0px #353430;
+  --link-active: 0px 1px 0px #ff8dcb;
+  --decorative-box-shadow: 0px 0px 4px 2px #353430;
 }
 
 .theme-light .header__header-decorative-text::after,
@@ -41,10 +45,14 @@
     --shadow-text-link: 2px 2px 0 #ff8dcb;
     --main-text-color: #353430;
     --main-title-color: #353430;
+    --bottom-switch-active: 1px solid #353430;
     --bottom-hover: 1px solid rgba(50, 49, 45, 0.4);
     --bottom-focus: 0px 1px 0px #353430;
+    --bottom-active: rgb(255, 141, 203, 0.1);
     --link-focus: 1px solid #353430;
     --link-hover: 0px 1px 0px #353430;
+    --link-active: 0px 1px 0px #ff8dcb;
+    --decorative-box-shadow: 0px 0px 4px 2px #353430;
   }
 
   .header__header-decorative-text::after,

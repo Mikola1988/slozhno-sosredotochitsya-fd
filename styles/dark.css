@@ -20,10 +20,13 @@
   --shadow-text-link: 2px 2px 0 #ff0070;
   --main-text-color: #f1b2ce;
   --main-title-color: #ff0070;
+  --bottom-switch-active: 1px solid #ff0070;
   --bottom-hover: 1px solid rgba(255, 0, 112, 0.4);
   --bottom-focus: 0px 1px 0px #ff0070;
+  --bottom-active: rgb(241, 178, 206, 0.1);
   --link-focus: 1px solid #f1b2ce;
   --link-hover: 0px 1px 0px #f1b2ce;
+  --link-active: 0px 1px 0px #ff0070;
 }
 
 .theme-dark .header__header-decorative-text::after,
