@@ -191,7 +191,6 @@
 .section__hard-to-concentrate-block {
   display: flex;
   flex-direction: column;
-  /* gap: 10px; */
 }
 
 .section__card {
