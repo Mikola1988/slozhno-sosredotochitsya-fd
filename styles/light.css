@@ -14,7 +14,7 @@
   --page-bg-image: url('../images/cover-image-light.png');
   --page-text-color: #353430;
   --header-footer-title-color: #ffc2e6;
-  --bg-text: #ff8dcb;
+  --bg-text: #FF8DCB;
   --shadow-text: 4px 4px 0px #ff8dcb;
   --shadow-text-link: 2px 2px 0 #ff8dcb;
   --main-text-color: #353430;
@@ -40,7 +40,7 @@
     --page-bg-image: url('../images/cover-image-light.png');
     --page-text-color: #353430;
     --header-footer-title-color: #ffc2e6;
-    --bg-text: #ffc2e6;
+    --bg-text: #ff8dcb;
     --shadow-text: 4px 4px 0px #ff8dcb;
     --shadow-text-link: 2px 2px 0 #ff8dcb;
     --main-text-color: #353430;
